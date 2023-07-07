@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj": {}
+    "c:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj": {
+    "c:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj",
+        "projectUniqueName": "c:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj",
         "projectName": "example1",
-        "projectPath": "C:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj",
+        "projectPath": "c:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\example1.csproj",
         "packagesPath": "C:\\Users\\ALFA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\obj\\",
+        "outputPath": "c:\\Users\\ALFA\\Desktop\\c#\\example0\\example1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALFA\\AppData\\Roaming\\NuGet\\NuGet.Config"
